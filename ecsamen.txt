@@ -1,3 +1,4 @@
 3.branch historia 000
 4.branch historia 001
 5.checkout historia 000
+11. stash
