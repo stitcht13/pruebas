@@ -2,3 +2,6 @@
 23. commit paso 23
 24. checkout master
 25. fastforward
+26. add bitacora.txt + committ "paso 26"
+27.   tag RespuestaPreguntaFusion
+28. push + push respuestaPreguntaFusion
