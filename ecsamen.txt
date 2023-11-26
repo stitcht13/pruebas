@@ -9,6 +9,12 @@
 14. commit paso 14
 15. checkout historia001
 16. stash apply 
+21. merge historia000  estando en historia001
+-  edito bitacora.txt
+-  add bitacora.txt
+- commit "cambios"
+- fusion recursiva
+
 
 
 
