@@ -5,3 +5,7 @@
 26. add bitacora.txt + committ "paso 26"
 27.   tag RespuestaPreguntaFusion
 28. push + push respuestaPreguntaFusion
+31.  merge Historia001            Fusión recursiva con conflictos
+        editar bitacora.txt
+        add bitacora.txt
+        commit  
