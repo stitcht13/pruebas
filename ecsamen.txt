@@ -1,0 +1,4 @@
+22. add bitacora.txt
+23. commit paso 23
+24. checkout master
+25. fastforward
