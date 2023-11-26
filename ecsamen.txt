@@ -1,0 +1,7 @@
+7. add bitacora.txt
+8. commit "paso 8"
+9. cheackout historia 001
+13. add bitacora.txt 
+14. commit paso 14
+15. checkout historia001
+16. apply stash 
